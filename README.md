@@ -1,6 +1,6 @@
 # Digital-Ocean-Initial-Configuration
 Script ini dibuat berdasarkan instruksi dalam link berikut:
-https://www.digitalocean.com/community/tutorials/initial-server-setup-with-ubuntu-20-04
+https://www.digitalocean.com/community/tutorials/initial-server-setup-with-ubuntu-20-04  dan 
 https://linuxize.com/post/how-to-install-xrdp-on-ubuntu-20-04/
 
 Dengan menggunakan script diatas dapat dilakukan akses cloud computer yang sudah terinstall OS tertentu.
